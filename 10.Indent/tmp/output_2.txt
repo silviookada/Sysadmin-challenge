@@ -1,0 +1,5 @@
+540.300.759.124     lnx02csv            lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #   ADM
+a.b.c.d             eeeeeeee            ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+aa.bb.cc.dd         eeeeeeee            ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+aaa.bbb.ccc.ddd     eeeeeeee            ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+#This is a comment and I need to be on the final file result! :) 
