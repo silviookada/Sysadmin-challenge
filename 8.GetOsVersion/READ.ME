@@ -1,0 +1,6 @@
+The script is hardcoded to get the server list file from "myservers_list.txt"file but can be modified to receive the source file by changing the variable "servers":
+change from:
+  servers=`cat  myservers_list.txt`
+to:
+  servers=`cat $1`
+
